@@ -1,9 +1,5 @@
 ## Rick and Morty API Challange
 
-#### Example:
-
-Rick and Morty API
-
 An application used to filter data form RickAndMortyAPI based on user input, built with React, Styled Components, JavaScript, and CSS.
 
 ## Project Status
